@@ -326,7 +326,7 @@ textarea {
 /*グリッド*/
 .grid {
   display: grid;
-  gap: 0;
+  gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   margin-top: 10px;
   margin-bottom: 10px;
